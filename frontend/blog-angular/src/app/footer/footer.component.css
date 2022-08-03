@@ -1,0 +1,26 @@
+.social-network {
+    list-style: none;
+    padding: 0;
+}
+
+.social-network > li {
+    display: inline;
+    margin: 5px;
+    font-size: 30px;
+}
+
+.icoFacebook, .icoInstagram, .icoLinkedin {
+    color: #ffffff;
+}
+
+.icoFacebook:hover {
+    color: #3b5998;
+}
+
+.icoInstagram:hover {
+    color: #c13584;
+}
+
+.icoLinkedin:hover {
+    color: #0072b1;
+}

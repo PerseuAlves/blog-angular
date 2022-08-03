@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Boas Vindas",
+      "mensagem": "Bem vindo ao blog."
+    },
+    {
+      "id": 2,
+      "nome": "Primeiro Post",
+      "mensagem": "Esse é o primeiro post do blog."
+    },
+    {
+      "id": 3,
+      "nome": "Segundo Post",
+      "mensagem": "Esse é o segundo post do blog."
+    }
+  ]
+}
